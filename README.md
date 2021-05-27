@@ -27,4 +27,5 @@ la palabra FIN sigue al último caso de prueba.
 Salida: Para cada caso de entrada, imprima el número de caso (comenzando con 1)
 y el número mínimo de pilas necesarias para almacenar los contenedores antes de
 que comience la carga. Su formato de salida debe ser similar al que se muestra aquí.
+
 *******************************************************************************/
