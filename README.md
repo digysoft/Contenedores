@@ -1,8 +1,8 @@
 # contenedores
 /******************************************************************************
 
-                              Online C++ Compiler.
-               Code, Compile, Run and Debug C++ program online.
+                            DigySoft E.I.R.L
+                              C++ Compiler
 
 Programa: Contenedores
 
